@@ -1,9 +1,15 @@
 # QuotesApp
-It is a mobile application that displays quotes. If you scroll down the screen, the quote will be refreshed as you can see in the second picture, and the "Change Quote" button that you can see at the bottom of the page also has the same function.
+It is a mobile application that displays quotes. If you scroll down the screen, the quote will be refreshed as you can see in the second picture, and the "Change The Quote" button that you can see at the bottom of the page also has the same function.
 
 <p align="center"><img align="center" src="https://raw.githubusercontent.com/gngrozturk/QuotesApp/master/ss/SS1.jpg" width="300" />     <img align="center" src="https://raw.githubusercontent.com/gngrozturk/QuotesApp/master/ss/SS2.jpg" width="300" /></p>
 
+## Development Process
 
+I used Expo CLI because, you can easily set up your React Native Project and you do not need an emulator or a Mac to run React Native apps with Expo. You can simply download the Expo app for Android and IOS and then run the project on your phone.
+
+My main aim was developing a component based application. In this way I could have more readable codebase and it would be easier if I had to expand the project by adding new features in the future.
+
+I used [Quotable](https://opensourcelibs.com/lib/quotable) for data. It's easy to use and it has a explanatory documentation. 
 
 ## Getting Started
 
